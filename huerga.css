@@ -1,0 +1,19 @@
+/*Цвет кнопки*/
+.ec-size .ec-store .form-control--primary .form-control__button {
+background-color: red;
+}
+
+/*Цвет кнопки при наведении*/
+.ec-size .ec-store .form-control--primary .form-control__button:hover {
+background: #F0F8FF;
+}
+
+/*Цвет текста*/
+.ec-size .ec-store .form-control--primary .form-control__button {
+color: black;
+}
+
+/*Цвет текста при наведении*/
+.ec-size .ec-store .form-control--primary .form-control__button:hover {
+color: black;
+}
